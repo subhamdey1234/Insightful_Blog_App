@@ -1,4 +1,4 @@
-Link:[https://subham-blog-application.netlify.app/](https://subham-blog-application.netlify.app/)
+Link:   [https://subham-blog-application.netlify.app/](https://subham-blog-application.netlify.app/)
 
 Screenshots
 
