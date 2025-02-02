@@ -95,7 +95,7 @@ Contributions are welcome! Feel free to fork the repository and create a pull re
 This project is licensed under the **MIT License**.
 
 ## Contact
-For any inquiries, contact [your-email@example.com](mailto:your-email@example.com) or visit the GitHub repository.
+For any inquiries, contact [sdey06384@gmail.com](mailto:sdey06384@gmail.com) or visit the GitHub repository.
 
 Happy Coding! 🚀
 
